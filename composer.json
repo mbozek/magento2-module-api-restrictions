@@ -1,5 +1,5 @@
 {
-    "name": "mbk/magento2-module-api-restrictions",
+    "name": "maciejbozek/magento2-module-api-restrictions",
     "description": "Magento 2 module to restrict api requests",
     "type": "magento2-module",
     "version": "1.0.0",

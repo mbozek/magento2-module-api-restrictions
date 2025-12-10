@@ -26,3 +26,7 @@ bin/magento cache:flush
 ## Usage
 
 Configure IPs with allowed access to API.
+
+Stores -> Configuration -> Services -> Magento Web API -> Web API Security -> Allowed Ips
+
+Add IP addresses you want to grand access. Description is only used in admin panel.

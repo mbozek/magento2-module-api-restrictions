@@ -11,7 +11,7 @@ Magento 2 module to restrict api requests.
 
 ```bash
 # Install via composer
-composer require mbk/magento2-module-api-restrictions
+composer require mbozek/magento2-module-api-restrictions
 
 # Enable the module
 bin/magento module:enable MBk_ApiRestrictions
@@ -24,3 +24,5 @@ bin/magento cache:flush
 ```
 
 ## Usage
+
+Configure IPs with allowed access to API.
